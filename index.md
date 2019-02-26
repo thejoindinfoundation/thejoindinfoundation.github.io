@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## The Joindin Foundation
 
-You can use the [editor on GitHub](https://github.com/thejoindinfoundation/thejoindinfoundation.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Joindin Foundation is a nonprofit organization which has applied for Recognition of Exemption Under Section 501(c)(3) of the Internal Revenue Code of The United States of America. The founding board members are Adam Englander, Beth Tucker Long, and Joe Ferguson. All three are involved heavily with Joind.in leadership team and hosted project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Purpose 
 
-### Markdown
+The organization is organized exclusively for charitable, educational, and scientific purposes under Section 501©(3) of the Internal Revenue Code, or corresponding Section of any future federal tax code.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mission
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thejoindinfoundation/thejoindinfoundation.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The mission of The Joindin Foundation is to facilitate the hosted Joind.in service and mainting the open source project to encourage learning and teaching.
