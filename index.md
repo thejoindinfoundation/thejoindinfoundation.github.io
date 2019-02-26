@@ -1,6 +1,6 @@
 ## The Joindin Foundation
 
-The Joindin Foundation is a nonprofit organization which has applied for Recognition of Exemption Under Section 501(c)(3) of the Internal Revenue Code of The United States of America. The founding board members are Adam Englander, Beth Tucker Long, and Joe Ferguson. All three are involved heavily with Joind.in leadership team and hosted project.
+The Joindin Foundation is a nonprofit organization which has applied for Recognition of Exemption Under Section 501(c)(3) of the Internal Revenue Code of The United States of America. The founding board members are Adam Englander, Beth Tucker Long, and Joe Ferguson. All three are involved heavily with Joind.in leadership team and hosted project. You can also read the [bylaws](/bylaws) of the organization.
 
 ### Purpose 
 

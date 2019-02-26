@@ -1,4 +1,3 @@
- # The Joindin Foundation Bylaws
 # I. Name
 1. The name of the organization/agency/group shall be The Joindin Foundation
 
