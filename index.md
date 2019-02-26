@@ -9,3 +9,7 @@ The organization is organized exclusively for charitable, educational, and scien
 ### Mission
 
 The mission of The Joindin Foundation is to facilitate the hosted Joind.in service and mainting the open source project to encourage learning and teaching.
+
+### More Information
+
+You can listen [here](https://voicesoftheelephpant.com/2019/02/26/interview-with-joind-in-maintainers/) to Ian Littman, Paul McNeely, Andreas Hiegl, and Joe Ferguson from the Joind.in Leadership Team on the [Voices Of the Elephpant Podcast](https://voicesoftheelephpant.com/2019/02/26/interview-with-joind-in-maintainers/).
