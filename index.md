@@ -12,4 +12,4 @@ The mission of The Joindin Foundation is to facilitate the hosted Joind.in servi
 
 ### More Information
 
-You can listen [here](https://voicesoftheelephpant.com/2019/02/26/interview-with-joind-in-maintainers/) to Ian Littman, Paul McNeely, Andreas Hiegl, and Joe Ferguson from the Joind.in Leadership Team on the [Voices Of the Elephpant Podcast](https://voicesoftheelephpant.com/2019/02/26/interview-with-joind-in-maintainers/).
+You can listen [here](https://voicesoftheelephpant.com/2019/02/26/interview-with-joind-in-maintainers/) to Ian Littman, Paul McNeely, Andreas Hiegl, and Joe Ferguson from the Joind.in Leadership Team on the [Voices Of the Elephpant Podcast](https://voicesoftheelephpant.com/2019/02/26/interview-with-joind-in-maintainers/). You can also read more on the [Joind.in Blog](https://joindin.wordpress.com)
